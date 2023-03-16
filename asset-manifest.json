@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Day-01-30-in-React---Quiz-App/static/css/main.31d6cfe0.css",
+    "main.js": "/Day-01-30-in-React---Quiz-App/static/js/main.d1bec9a4.js",
+    "index.html": "/Day-01-30-in-React---Quiz-App/index.html",
+    "main.d1bec9a4.js.map": "/Day-01-30-in-React---Quiz-App/static/js/main.d1bec9a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d1bec9a4.js"
+  ]
+}
